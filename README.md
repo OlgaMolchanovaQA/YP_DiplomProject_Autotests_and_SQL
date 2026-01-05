@@ -12,7 +12,7 @@
 
 * Примеры запросов находятся в файле [sql_queries](sql_queries.sql)
 
-* Результаты можно посмотреть на скриншоте [Запросы к БД.jpg]
+* Результаты можно посмотреть на скриншоте [Запросы к БД.jpg](https://github.com/OlgaMolchanovaQA/YP_DiplomProject_Autotests_and_SQL/blob/df7179f8194e4113bf9e9baec6e1347524045edb/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%BA%20%D0%91%D0%94.jpg)
 
 ### Задание 2
 #### Тестирование статусов заказов
